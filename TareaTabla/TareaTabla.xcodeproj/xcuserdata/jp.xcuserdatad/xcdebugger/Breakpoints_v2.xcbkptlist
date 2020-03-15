@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "744CCF9C-8945-40E1-ABF4-581CEBA1CFD2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00373D9E-6393-48B2-965D-835C2877BC03"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TareaTabla/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39A2759C-CDE9-457A-96D5-E22A5B65EAAF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TareaTabla/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "39A2759C-CDE9-457A-96D5-E22A5B65EAAF - 1593bf220c88e762"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TareaTabla.ViewController.numbers.getter : Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "TareaTabla"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jp/Documents/Cenfo%20IOS%202020/TareaTabla/TareaTabla/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "39A2759C-CDE9-457A-96D5-E22A5B65EAAF - dc611e31f1d83f86"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TareaTabla.ViewController.numbers.setter : Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "TareaTabla"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jp/Documents/Cenfo%20IOS%202020/TareaTabla/TareaTabla/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "39A2759C-CDE9-457A-96D5-E22A5B65EAAF - debac9b7861dc159"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TareaTabla.ViewController.numbers.modify : Swift.Array&lt;Swift.Int&gt;"
+                  moduleName = "TareaTabla"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jp/Documents/Cenfo%20IOS%202020/TareaTabla/TareaTabla/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "39A2759C-CDE9-457A-96D5-E22A5B65EAAF - aadb11990a22d538"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TareaTabla.ViewController.numbers.modify : Swift.Array&lt;Swift.Int&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TareaTabla"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jp/Documents/Cenfo%20IOS%202020/TareaTabla/TareaTabla/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "39A2759C-CDE9-457A-96D5-E22A5B65EAAF - b38ee2c9c9e22d47"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TareaTabla.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TareaTabla.ViewController"
+                  moduleName = "TareaTabla"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jp/Documents/Cenfo%20IOS%202020/TareaTabla/TareaTabla/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "182">
+               </Location>
+               <Location
+                  uuid = "39A2759C-CDE9-457A-96D5-E22A5B65EAAF - 1bd16df066c102d8"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TareaTabla.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TareaTabla.ViewController&gt;"
+                  moduleName = "TareaTabla"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jp/Documents/Cenfo%20IOS%202020/TareaTabla/TareaTabla/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "113">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "603D98F9-AE35-42C9-B7B2-8D14236EE9CB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TareaTabla/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
