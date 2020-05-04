@@ -1,0 +1,6 @@
+target 'ProyectoPresupuesto' do
+  use_frameworks!
+  # Pods for ProyectoPresupuesto
+  pod 'RealmSwift'
+  pod 'SwiftDate', '~> 6.1'
+end
